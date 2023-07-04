@@ -1,1 +1,1 @@
-# QuizAppHackathonUpGrad
+# QuizApp
